@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on Projects
-- 📫 How to reach me ibinaboadiela@outlook.com
+- 📫 How to reach me ibadiela@gmail.com
 
 <!---
 lilyflowr/lilyflowr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
