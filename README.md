@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lilyflowr
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning JavaScript and C
+- 🌱 I’m currently learning C language, Python and Javascript
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me ibadiela@gmail.com
 
