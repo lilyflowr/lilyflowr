@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lilyflowr
-- 👀 I’m interested in Programming
+- 👀 I’m interested in Programming and Technical Writing
 - 🌱 I’m currently learning JavaScript libraries and frameworks.
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me ibadiela@gmail.com
