@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Ibinabo Adiela
-- 👀 I’m interested in Data Science and Programming.
-- 🌱 I’m currently AI and Machine Learning
+- 👀 I’m interested in all things Data.
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me ibadiela@gmail.com
 
